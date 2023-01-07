@@ -7,8 +7,8 @@
 - 🌱 I'll be a unity developer.
 - ❤ I’m interested in metaverse and Interactive content.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-JiHyeon&theme=swift&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-JiHyeon&layout=compact)](https://github.com/Kang-JiHyeon/github-readme-stats)</td>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-JiHyeon&theme=flag-india&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-JiHyeon&layout=compact)](https://github.com/Kang-JiHyeon/github-readme-stats)
   
 <br>
 
@@ -26,5 +26,4 @@
 <a href="https://velog.io/@jh991012" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
 <br>
-
 
