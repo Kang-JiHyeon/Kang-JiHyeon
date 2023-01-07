@@ -21,7 +21,7 @@
 
 <br>
 
-## 👩‍💻 Link
+## 🔗 Link
 <a href="https://glory-order-c53.notion.site/Unity-Developer-d0dcbf1de21c4fd2b1be57dc6dc271e4" target="_blank"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@jh991012" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
