@@ -8,8 +8,9 @@
 - ❤ I’m interested in metaverse and Interactive content.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-JiHyeon&theme=solarized-light&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-JiHyeon&layout=compact)](https://github.com/Kang-JiHyeon/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello_jh)](https://solved.ac/hello_jh/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-JiHyeon&layout=compact)](https://github.com/Kang-JiHyeon/github-readme-stats) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello_jh)](https://solved.ac/hello_jh/)
+
 <br>
 
 ## 📚 Stack
