@@ -4,7 +4,7 @@
 ## 👀 Who am I?
 
 - 🌞 I'm Jihyeon Kang.
-- 🌱 I'll be a unity developer.
+- 🌱 I'm a unity developer.
 - ❤ I’m interested in metaverse and Interactive content.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-JiHyeon&theme=solarized-light&show_icons=true)
@@ -23,7 +23,7 @@
 <br>
 
 ## 🔗 Link
-<a href="https://glory-order-c53.notion.site/Unity-Developer-d0dcbf1de21c4fd2b1be57dc6dc271e4" target="_blank"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<!-- <a href="https://glory-order-c53.notion.site/Unity-Developer-d0dcbf1de21c4fd2b1be57dc6dc271e4" target="_blank"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a> -->
 <a href="https://velog.io/@jh991012" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
 <br>
