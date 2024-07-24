@@ -4,7 +4,7 @@
 ## 👀 Who am I?
 
 - 🌞 I'm Jihyeon Kang.
-- 🌱 I'm a unity developer.
+- 🌱 I'm a developer.
 - ❤ I’m interested in metaverse and Interactive content.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-JiHyeon&theme=solarized-light&show_icons=true)
